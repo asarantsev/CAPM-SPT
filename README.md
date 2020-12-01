@@ -1,2 +1,2 @@
 # VolatilityStabilized
-Code and data for my article on Volatility-Stabilized Models
+Code and data for my article on Volatility-Stabilized Models. Data file SizeDeciles.xlsx taken from Professor Kenneth French's online data library for stock deciles returns and size, and Federal Reserve Economic Data web site for short-term Treasury rates which provide risk-free returns. Python file SizeDeciles.py is for code. Save the code and data files to the same folder and run the code. It will generate the plots and results. 
